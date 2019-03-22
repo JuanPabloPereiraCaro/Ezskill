@@ -1,0 +1,13 @@
+C:\Users\Juaan\Desktop\SAUCE\recoil test\recoil test\bin\Debug\ClassInput.dll
+C:\Users\Juaan\Desktop\SAUCE\recoil test\recoil test\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\Juaan\Desktop\SAUCE\recoil test\recoil test\obj\Debug\PUBG sucks.csproj.GenerateResource.cache
+C:\Users\Juaan\Desktop\SAUCE\recoil test\recoil test\obj\Debug\PUBG sucks.csproj.CoreCompileInputs.cache
+C:\Users\Juaan\Desktop\SAUCE\recoil test\recoil test\obj\Debug\PUBG sucks.csproj.CopyComplete
+C:\Users\Juaan\Desktop\SAUCE\recoil test\recoil test\obj\Debug\PUBGSucks.Form1.resources
+C:\Users\Juaan\Desktop\SAUCE\recoil test\recoil test\bin\Debug\Ezskill.exe.config
+C:\Users\Juaan\Desktop\SAUCE\recoil test\recoil test\bin\Debug\Ezskill.exe
+C:\Users\Juaan\Desktop\SAUCE\recoil test\recoil test\bin\Debug\Ezskill.pdb
+C:\Users\Juaan\Desktop\SAUCE\recoil test\recoil test\obj\Debug\Ezskill.Properties.Resources.resources
+C:\Users\Juaan\Desktop\SAUCE\recoil test\recoil test\obj\Debug\Ezskill.exe
+C:\Users\Juaan\Desktop\SAUCE\recoil test\recoil test\obj\Debug\Ezskill.pdb
+C:\Users\Juaan\Desktop\SAUCE\recoil test\recoil test\obj\Debug\PUBG sucks.csprojAssemblyReference.cache
